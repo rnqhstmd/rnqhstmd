@@ -2,7 +2,9 @@
 
 명지대학교 졸업 · Backend Developer
 
-Java와 Spring Boot를 주로 사용하며, 안정적이고 확장 가능한 서버를 만드는 데 관심이 있습니다.
+Java와 Spring Boot 기반의 서버 개발을 주로 하고 있습니다. 안정적이고 확장 가능한 아키텍처 설계에 관심이 많으며, 클린 아키텍처와 DDD를 실무에 적용하는 것을 좋아합니다.
+
+최근에는 Claude Code를 활용한 AI 기반 개발 워크플로우에 깊이 빠져 있습니다. LLM이 개발 프로세스의 각 단계(요구사항 분석, 설계, 구현, 리뷰, 테스트)를 어떻게 자동화할 수 있는지 탐구하고 있고, 그 결과물로 [ttutak](https://github.com/rnqhstmd/ttutak) 플러그인을 직접 만들었습니다. AI 에이전트의 행동을 제어하는 하네스 엔지니어링과, 프롬프트 설계를 통해 멀티 에이전트 팀이 협업하는 구조를 설계하는 데 관심이 많습니다.
 
 ---
 
@@ -24,21 +26,21 @@ Java와 Spring Boot를 주로 사용하며, 안정적이고 확장 가능한 서
 
 | 프로젝트 | 설명 |
 |----------|------|
+| [ttutak](https://github.com/rnqhstmd/ttutak) | "개발해줘" 한마디면 PRD, 설계, 구현, 리뷰, 테스트, PR까지 뚝딱. Claude Code 개발 자동화 플러그인 |
 | [odiya2](https://github.com/rnqhstmd/odiya2) | 약속 시간을 역산해 출발 알림을 보내고, 친구에게 재촉(Nudge)까지 보내는 약속 관리 서비스 |
 | [odiya](https://github.com/rnqhstmd/odiya) | 모임 장소를 공유하고 참석자의 실시간 도착 예정 시간을 알려주는 약속 관리 서비스 |
 | [ecommerce](https://github.com/rnqhstmd/ecommerce) | 클린 아키텍처와 DDD를 적용한 이커머스 플랫폼. 계층 분리와 도메인 중심 설계 실습 |
-| [ttutak](https://github.com/rnqhstmd/ttutak) | 자연어 요청 하나로 PRD 작성부터 PR 생성까지 처리하는 AI 개발 자동화 플러그인 |
 
 ---
 
-### GitHub Stats
+### GitHub Activity
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=rnqhstmd&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnqhstmd&layout=compact&theme=default&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rnqhstmd&hide_border=true" height="150" />
 </div>
+
+[![rnqhstmd's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rnqhstmd&theme=github-light&hide_border=true&area=true)](https://github.com/rnqhstmd)
 
 ---
 
-[![Gmail](https://img.shields.io/badge/rnqhstmd9134@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:rnqhstmd9134@naver.com)
-![Visitors](https://komarev.com/ghpvc/?username=rnqhstmd&color=grey&style=flat-square)
+[![Gmail](https://img.shields.io/badge/bonseung9134@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bonseung9134@gmail.com)
