@@ -24,11 +24,10 @@ Java와 Spring Boot를 주로 사용하며, 안정적이고 확장 가능한 서
 
 | 프로젝트 | 설명 |
 |----------|------|
-| [odiya2](https://github.com/rnqhstmd/odiya2) | 약속 시간 역산 출발 알림 + 재촉(Nudge) 서비스 백엔드 |
-| [ecommerce](https://github.com/rnqhstmd/ecommerce) | 클린 아키텍처와 DDD를 적용한 이커머스 플랫폼 |
-| [chatchat_backend](https://github.com/rnqhstmd/chatchat_backend) | 사내 채팅 서비스 백엔드 |
-| [ICS](https://github.com/rnqhstmd/ICS) | 사내 프로필 & 공유 드라이브 서비스 백엔드 |
-| [ttutak](https://github.com/rnqhstmd/ttutak) | PRD → 설계 → 구현 → 리뷰 → PR 개발 자동화 플러그인 |
+| [odiya2](https://github.com/rnqhstmd/odiya2) | 약속 시간을 역산해 출발 알림을 보내고, 친구에게 재촉(Nudge)까지 보내는 약속 관리 서비스 |
+| [odiya](https://github.com/rnqhstmd/odiya) | 모임 장소를 공유하고 참석자의 실시간 도착 예정 시간을 알려주는 약속 관리 서비스 |
+| [ecommerce](https://github.com/rnqhstmd/ecommerce) | 클린 아키텍처와 DDD를 적용한 이커머스 플랫폼. 계층 분리와 도메인 중심 설계 실습 |
+| [ttutak](https://github.com/rnqhstmd/ttutak) | 자연어 요청 하나로 PRD 작성부터 PR 생성까지 처리하는 AI 개발 자동화 플러그인 |
 
 ---
 
