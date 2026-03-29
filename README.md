@@ -1,6 +1,6 @@
 ## 구본승
 
-명지대학교 졸업 · Backend Developer · [![Blog](https://img.shields.io/badge/Tech_Blog-181717?style=flat-square&logo=github&logoColor=white)](https://rnqhstmd.github.io) · [![Gmail](https://img.shields.io/badge/bonseung9134@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bonseung9134@gmail.com)
+명지대학교 정보통신공학과 졸업 · Backend Developer · [![Blog](https://img.shields.io/badge/Tech_Blog-181717?style=flat-square&logo=github&logoColor=white)](https://rnqhstmd.github.io) · [![Gmail](https://img.shields.io/badge/bonseung9134@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bonseung9134@gmail.com)
 
 Java와 Spring Boot 기반의 서버 개발을 주로 하고 있습니다. 클린 아키텍처와 DDD로 도메인 로직을 인프라에서 분리하는 설계를 선호하고, 외부 API 연동, 비동기 처리, 캐싱 전략 같은 실제 서비스에서 부딪히는 문제를 깔끔하게 풀어내는 걸 좋아합니다.
 
