@@ -2,9 +2,9 @@
 
 명지대학교 정보통신공학과 졸업 · Backend Developer · [![Blog](https://img.shields.io/badge/Tech_Blog-181717?style=flat-square&logo=github&logoColor=white)](https://rnqhstmd.github.io) · [![Gmail](https://img.shields.io/badge/bonseung9134@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bonseung9134@gmail.com)
 
-Java와 Spring Boot 기반의 서버 개발을 주로 하고 있습니다. 클린 아키텍처와 DDD로 도메인 로직을 인프라에서 분리하는 설계를 선호하고, 외부 API 연동, 비동기 처리, 캐싱 전략 같은 실제 서비스에서 부딪히는 문제를 깔끔하게 풀어내는 걸 좋아합니다.
+Java와 Spring Boot 기반의 서버 개발을 주로 하고 있습니다. 클린 아키텍처와 DDD로 도메인 로직을 인프라에서 분리하는 설계를 선호하고, 외부 API 연동, 비동기 처리, 캐싱 전략 같은 실제 서비스에서 마주치는 복잡한 문제를 설계로 풀어내는 걸 좋아합니다.
 
-최근에는 Claude Code를 활용한 AI 기반 개발 워크플로우에 깊이 빠져 있습니다. LLM이 개발 프로세스 전 단계를 어떻게 자동화할 수 있는지 탐구하며, [ttutak](https://github.com/rnqhstmd/ttutak)과 [tddak](https://github.com/rnqhstmd/tddak) 두 Claude Code 플러그인을 직접 만들었습니다. ttutak은 DDD 기반으로 도메인 컨텍스트를 등록하고 자연어 한마디로 PRD부터 PR까지 처리하고, tddak은 여기에 TDD를 더해 실패 테스트 없이는 코드를 작성할 수 없는 구조를 강제합니다. AI 에이전트의 행동을 제어하는 하네스 엔지니어링과, 프롬프트 설계를 통해 멀티 에이전트 팀이 협업하는 구조를 설계하는 데 관심이 많습니다.
+최근에는 Claude Code를 활용한 AI 기반 개발 워크플로우에 깊이 빠져 있습니다. LLM이 개발 프로세스 전 단계를 어떻게 자동화할 수 있는지 탐구하며, [ttutak](https://github.com/rnqhstmd/ttutak)과 [tddak](https://github.com/rnqhstmd/tddak) 두 Claude Code 플러그인을 직접 만들었습니다. ttutak은 DDD 기반으로 도메인 컨텍스트를 등록하고 자연어 한마디로 PRD부터 PR까지 처리하고, tddak은 여기에 TDD를 더해 실패 테스트 없이는 코드를 작성할 수 없는 구조를 강제합니다. 이처럼 AI 에이전트의 행동을 제어하는 하네스 엔지니어링과, 프롬프트 설계를 통해 멀티 에이전트 팀이 협업하는 구조를 설계하는 데 관심이 많습니다.
 
 ---
 
